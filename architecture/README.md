@@ -1,6 +1,6 @@
 # AWS Transit Gateway Multi-VPC Networking Architecture
 
-![AWS Transit Gateway Multi-VPC Networking Architecture](./archyi.png)
+![AWS Transit Gateway Multi-VPC Networking Architecture](./transit.png)
 
 ## Overview
 
