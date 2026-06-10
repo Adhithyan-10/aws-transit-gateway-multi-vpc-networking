@@ -119,7 +119,7 @@ No internet routing is used for inter-VPC communication.
 # 🏗️ Architecture Diagram
 
 <p align="center">
-    <img src="./architecture/Archyi.png" alt="AWS Transit Gateway Architecture" width="100%">
+    <img src="./architecture/transit.png" alt="AWS Transit Gateway Architecture" width="100%">
 </p>
 
 ---
